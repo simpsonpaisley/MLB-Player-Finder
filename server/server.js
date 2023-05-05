@@ -11,7 +11,9 @@ app.get('/', (request, response) => {
 });
 
 app.get('/leagues', (request, response) => {
-	response.json(playerData.data.leagues);
+	response.json(
+		playerData.data.leagues.american.central.whitesox.roster.catchers[0]
+	);
 });
 
 app.listen(PORT, () => {
