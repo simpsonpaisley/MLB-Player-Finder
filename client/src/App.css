@@ -1,38 +1,128 @@
-.App {
-  text-align: center;
+@font-face {
+	font-family: 'Rooster';
+	src: local('Rooster'),
+		url(./fonts/RoosterPersonalUse-3z8d8.ttf) format('opentype');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+	margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header {
+	background-color: #0d4082;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Rooster', cursive;
+	text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white,
+		2px 2px 0 white;
+	color: red;
+	font-size: 50px;
+	height: 20vh;
+	padding: 1rem;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.header img {
+	width: 12vh;
+	height: 12vw;
+	padding-right: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.main {
+	min-height: 100vh;
+	background-image: url(./images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 3rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer {
+	height: 15vh;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #0d4082;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.form {
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem;
+	width: 75vw;
+	border: 2px solid #0d4082;
+	border-radius: 5px;
+	box-shadow: 5px 5px #0d4082;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.leagueSelectHeader {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem;
+	width: 75vw;
+	border: 2px solid #0d4082;
+	border-radius: 5px;
+	box-shadow: 5px 5px #0d4082;
+	background-color: white;
+	margin-top: 3rem;
+	font-family: 'Rooster', cursive;
+	font-size: 50px;
+	color: red;
+	text-shadow: -2px -2px 0 #0d4082, 2px -2px 0 #0d4082, -2px 2px 0 #0d4082,
+		2px 2px 0 #0d4082;
+}
+
+.leagueSelectHeader h2 {
+	margin-bottom: 1rem;
+}
+
+.leagueSelect {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.leagueLogo {
+	font-family: 'Rooster', cursive;
+	font-size: 50px;
+	color: red;
+	text-shadow: -2px -2px 0 #0d4082, 2px -2px 0 #0d4082, -2px 2px 0 #0d4082,
+		2px 2px 0 #0d4082;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 1rem;
+	transition-duration: 0.75s;
+	transition-timing-function: ease-in-out;
+	margin-right: 1rem;
+}
+
+.leagueLogo img {
+	width: 25vw;
+	height: 50vh;
+	padding: 1rem;
+}
+
+.leagueLogo h3 {
+	padding: 1rem;
+}
+
+.leagueLogo:hover {
+	background-color: #0d4082;
+	text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white,
+		2px 2px 0 white;
+	transition-duration: 0.75s;
+	transition-timing-function: ease-in-out;
 }
