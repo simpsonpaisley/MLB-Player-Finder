@@ -126,3 +126,94 @@
 	transition-duration: 0.75s;
 	transition-timing-function: ease-in-out;
 }
+
+.divisionSelect {
+	background-color: white;
+	border: 2px solid #0d4082;
+	box-shadow: 10px, 10px, #0d4082;
+	border-radius: 5px;
+	width: 75vw;
+	min-height: 90vh;
+	margin: 3rem;
+	display: flex;
+	flex-direction: column;
+}
+
+hr {
+	height: 5px;
+	background-color: red;
+	width: 74vw;
+	align-self: center;
+}
+.modalHeader {
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding: 1rem;
+	text-align: center;
+}
+
+.modalHeader h2 {
+	margin-right: 23%;
+}
+
+.modalHeader button {
+	background: red;
+	color: #0d4082;
+	font-family: 'Rooster', cursive;
+	font-size: 3rem;
+	padding: 1rem;
+	align-self: flex-start;
+	justify-content: center;
+	text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white,
+		2px 2px 0 white;
+	border-radius: 5px;
+	margin-right: 2rem;
+}
+
+.divisionDisplay {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-top: 1rem;
+}
+
+.teamDisplay {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	padding: 1rem;
+}
+
+.teamDisplay img {
+	width: 10vw;
+	height: 15vh;
+}
+
+.teamDisplay h4 {
+	font-size: 1.5rem;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white,
+		2px 2px 0 white;
+}
+
+.teamDisplay:hover {
+	background-color: #0d4082;
+	text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white,
+		2px 2px 0 white;
+	transition-duration: 0.75s;
+	transition-timing-function: ease-in-out;
+}
+.divisionTeamDisplay {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.teamInfoDisplay {
+	background-color: red;
+	height: 100vh;
+}
