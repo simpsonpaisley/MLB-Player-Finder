@@ -1,311 +1,312 @@
 {
-   "data":{
-      "leagues":[
-         {
-            "leagueName":"American League",
-            "areas":[
-               {
-                  "division":"American League Central",
-                  "teams":[
-                     {
-                        "teamName":"Chicago White Sox",
-                        "location":"Chicago",
-                        "homeStadium":"Guaranteed Rate Field",
-                        "logoImg":"https://cdn.freebiesupply.com/images/thumbs/2x/chicago-white-sox-logo.png",
-                        "colour1":"#FFFFFF",
-                        "colour2":"#231F20",
-                        "roster":{
-                           "pitchers":{
-                              "positionName":"Pitchers",
-                              "pitchersArr":[
-                                 {
-                                    "playerName":"Aaron Bummer",
-                                    "playerAge":"29",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#39",
-                                    "playerERA":"8.18",
-                                    "playerWhip":"1.73",
-                                    "playerK":"13",
-                                    "playerImg":"https://b.fssta.com/uploads/application/mlb/headshots/8905.png"
-                                 },
-                                 {
-                                    "playerName":"Dylan Cease",
-                                    "playerAge":"27",
-                                    "playerPosition":"Starting Pitcher",
-                                    "playerNumber":"#84",
-                                    "playerERA":"4.58",
-                                    "playerWhip":"1.44",
-                                    "playerK":"43",
-                                    "playerImg":"https://www.si.com/.image/t_share/MTY4NDk3MTA1MTE1NjIxMTQz/dylan-cease.png"
-                                 },
-                                 {
-                                    "playerName":"Mike Clevinger",
-                                    "playerAge":"32",
-                                    "playerPosition":"Starting Pitcher",
-                                    "playerNumber":"#52",
-                                    "playerERA":"4.60",
-                                    "playerWhip":"1.60",
-                                    "playerK":"26",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32769.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Alex Colome",
-                                    "playerAge":"34",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#48",
-                                    "playerERA":"18.00",
-                                    "playerWhip":"3.00",
-                                    "playerK":"1",
-                                    "playerImg":"https://www.si.com/.image/t_share/MTY4NDk3MTA0MDQwMzcxOTkw/alex-colome.png"
-                                 },
-                                 {
-                                    "playerName":"Lucas Giolito",
-                                    "playerAge":"28",
-                                    "playerPosition":"Starting Pitcher",
-                                    "playerNumber":"#27",
-                                    "playerERA":"3.67",
-                                    "playerWhip":"1.10",
-                                    "playerK":"41",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32697.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Kendall Graveman",
-                                    "playerAge":"32",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#49",
-                                    "playerERA":"4.73",
-                                    "playerWhip":"1.20",
-                                    "playerK":"15",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33636.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Joe Kelly",
-                                    "playerAge":"34",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#17",
-                                    "playerERA":"7.71",
-                                    "playerWhip":"1.50",
-                                    "playerK":"7",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31992.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Michael Kopech",
-                                    "playerAge":"27",
-                                    "playerPosition":"Starting Pitcher",
-                                    "playerNumber":"#34",
-                                    "playerERA":"5.97",
-                                    "playerWhip":"1.58",
-                                    "playerK":"34",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33763.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Jimmy Lambert",
-                                    "playerAge":"28",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#58",
-                                    "playerERA":"6.00",
-                                    "playerWhip":"1.67",
-                                    "playerK":"21",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41389.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Reynaldo Lopez",
-                                    "playerAge":"29",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#40",
-                                    "playerERA":"8.78",
-                                    "playerWhip":"1.65",
-                                    "playerK":"20",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33860.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Lance Lynn",
-                                    "playerAge":"35",
-                                    "playerPosition":"Starting Pitcher",
-                                    "playerNumber":"#33",
-                                    "playerERA":"7.16",
-                                    "playerWhip":"1.59",
-                                    "playerK":"42",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/30820.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Keynan Middleton",
-                                    "playerAge":"29",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#99",
-                                    "playerERA":"2.89",
-                                    "playerWhip":"1.39",
-                                    "playerK":"17",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/36045.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Gregory Santos",
-                                    "playerAge":"23",
-                                    "playerPosition":"Relief Pitcher",
-                                    "playerNumber":"#60",
-                                    "playerERA":"1.62",
-                                    "playerWhip":"1.44",
-                                    "playerK":"17",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39682.png&w=350&h=254"
-                                 }
-                              ]
-                           },
-                           "catchers":{
-                              "positionName":"Catchers",
-                              "catchersArr":[
-                                 {
-                                    "playerName":"Yasmani Grandal",
-                                    "playerAge":"34",
-                                    "playerPosition":"Catcher",
-                                    "playerNumber":"#24",
-                                    "playerHR":"3",
-                                    "playerRBI":"9",
-                                    "playerOPS":"0.779",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/30950.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Seby Zavala",
-                                    "playerAge":"29",
-                                    "playerPosition":"Catcher",
-                                    "playerNumber":"#44",
-                                    "playerHR":"1",
-                                    "playerRBI":"2",
-                                    "playerOPS":"0.523",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37919.png&w=350&h=254"
-                                 }
-                              ]
-                           },
-                           "infielders":{
-                              "positionName":"Infielders",
-                              "infieldersArr":[
-                                 {
-                                    "playerName":"Hanser Alberto",
-                                    "playerAge":"30",
-                                    "playerPosition":"3rd Base",
-                                    "playerNumber":"#26",
-                                    "playerHR":"1",
-                                    "playerRBI":"4",
-                                    "playerOPS":"0.538",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32839.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Tim Anderson",
-                                    "playerAge":"29",
-                                    "playerPosition":"Shortstop",
-                                    "playerNumber":"#7",
-                                    "playerHR":"0",
-                                    "playerRBI":"5",
-                                    "playerOPS":"0.718",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33184.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Elvis Andrus",
-                                    "playerAge":"34",
-                                    "playerPosition":"Shortstop",
-                                    "playerNumber":"#1",
-                                    "playerHR":"0",
-                                    "playerRBI":"10",
-                                    "playerOPS":"0.504",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/29515.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Lenyn Sosa",
-                                    "playerAge":"23",
-                                    "playerPosition":"2nd Base",
-                                    "playerNumber":"#50",
-                                    "playerHR":"1",
-                                    "playerRBI":"3",
-                                    "playerOPS":"0.383",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41684.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Andrew Vaughn",
-                                    "playerAge":"25",
-                                    "playerPosition":"1st Base",
-                                    "playerNumber":"#25",
-                                    "playerHR":"3",
-                                    "playerRBI":"20",
-                                    "playerOPS":"0.780",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42394.png&w=350&h=254"
-                                 }
-                              ]
-                           },
-                           "outfielders":{
-                              "positionName":"Outfielders",
-                              "outfieldersArr":[
-                                 {
-                                    "playerName":"Andrew Benintendi",
-                                    "playerAge":"28",
-                                    "playerPosition":"Left Field",
-                                    "playerNumber":"#23",
-                                    "playerHR":"0",
-                                    "playerRBI":"6",
-                                    "playerOPS":"0.657",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34986.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Billy Hamilton",
-                                    "playerAge":"32",
-                                    "playerPosition":"Center Field",
-                                    "playerNumber":"#0",
-                                    "playerHR":"0",
-                                    "playerRBI":"0",
-                                    "playerOPS":"0.000",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31042.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Adam Haseley",
-                                    "playerAge":"27",
-                                    "playerPosition":"Right Field",
-                                    "playerNumber":"#51",
-                                    "playerHR":"0",
-                                    "playerRBI":"2",
-                                    "playerOPS":"1.155",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41082.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Luis Robert Jr.",
-                                    "playerAge":"25",
-                                    "playerPosition":"Center Field",
-                                    "playerNumber":"#88",
-                                    "playerHR":"6",
-                                    "playerRBI":"16",
-                                    "playerOPS":"0.702",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39631.png&w=350&h=254"
-                                 }
-                              ]
-                           },
-                           "designatedHitter":{
-                              "positionName":"Designated Hitters",
-                              "designatedHitterArr":[
-                                 {
-                                    "playerName":"Eloy Jiminez",
-                                    "playerAge":"26",
-                                    "playerPosition":"Designated Hitter",
-                                    "playerNumber":"#74",
-                                    "playerHR":"4",
-                                    "playerRBI":"15",
-                                    "playerOPS":"0.754",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33867.png&w=350&h=254"
-                                 },
-                                 {
-                                    "playerName":"Gavin Sheets",
-                                    "playerAge":"27",
-                                    "playerPosition":"Designated Hitter",
-                                    "playerNumber":"#32",
-                                    "playerHR":"2",
-                                    "playerRBI":"8",
-                                    "playerOPS":"0.697",
-                                    "playerImg":"https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40700.png&w=350&h=254"
-                                 }
-                              ]
-                           }
-                        }
-                     }
-                  ]
-               }
-            ]
-         }
-      ]
-   }
+	"data": {
+		"leagues": [
+			{
+				"leagueName": "American League",
+				"areas": [
+					{
+						"division": "American League Central",
+						"teams": [
+							{
+								"teamName": "Chicago White Sox",
+								"search": "whitesox",
+								"location": "Chicago",
+								"homeStadium": "Guaranteed Rate Field",
+								"logoImg": "https://cdn.freebiesupply.com/images/thumbs/2x/chicago-white-sox-logo.png",
+								"colour1": "#FFFFFF",
+								"colour2": "#231F20",
+								"roster": {
+									"pitchers": {
+										"positionName": "Pitchers",
+										"pitchersArr": [
+											{
+												"playerName": "Aaron Bummer",
+												"playerAge": "29",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#39",
+												"playerERA": "8.18",
+												"playerWhip": "1.73",
+												"playerK": "13",
+												"playerImg": "https://b.fssta.com/uploads/application/mlb/headshots/8905.png"
+											},
+											{
+												"playerName": "Dylan Cease",
+												"playerAge": "27",
+												"playerPosition": "Starting Pitcher",
+												"playerNumber": "#84",
+												"playerERA": "4.58",
+												"playerWhip": "1.44",
+												"playerK": "43",
+												"playerImg": "https://www.si.com/.image/t_share/MTY4NDk3MTA1MTE1NjIxMTQz/dylan-cease.png"
+											},
+											{
+												"playerName": "Mike Clevinger",
+												"playerAge": "32",
+												"playerPosition": "Starting Pitcher",
+												"playerNumber": "#52",
+												"playerERA": "4.60",
+												"playerWhip": "1.60",
+												"playerK": "26",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32769.png&w=350&h=254"
+											},
+											{
+												"playerName": "Alex Colome",
+												"playerAge": "34",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#48",
+												"playerERA": "18.00",
+												"playerWhip": "3.00",
+												"playerK": "1",
+												"playerImg": "https://www.si.com/.image/t_share/MTY4NDk3MTA0MDQwMzcxOTkw/alex-colome.png"
+											},
+											{
+												"playerName": "Lucas Giolito",
+												"playerAge": "28",
+												"playerPosition": "Starting Pitcher",
+												"playerNumber": "#27",
+												"playerERA": "3.67",
+												"playerWhip": "1.10",
+												"playerK": "41",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32697.png&w=350&h=254"
+											},
+											{
+												"playerName": "Kendall Graveman",
+												"playerAge": "32",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#49",
+												"playerERA": "4.73",
+												"playerWhip": "1.20",
+												"playerK": "15",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33636.png&w=350&h=254"
+											},
+											{
+												"playerName": "Joe Kelly",
+												"playerAge": "34",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#17",
+												"playerERA": "7.71",
+												"playerWhip": "1.50",
+												"playerK": "7",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31992.png&w=350&h=254"
+											},
+											{
+												"playerName": "Michael Kopech",
+												"playerAge": "27",
+												"playerPosition": "Starting Pitcher",
+												"playerNumber": "#34",
+												"playerERA": "5.97",
+												"playerWhip": "1.58",
+												"playerK": "34",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33763.png&w=350&h=254"
+											},
+											{
+												"playerName": "Jimmy Lambert",
+												"playerAge": "28",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#58",
+												"playerERA": "6.00",
+												"playerWhip": "1.67",
+												"playerK": "21",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41389.png&w=350&h=254"
+											},
+											{
+												"playerName": "Reynaldo Lopez",
+												"playerAge": "29",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#40",
+												"playerERA": "8.78",
+												"playerWhip": "1.65",
+												"playerK": "20",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33860.png&w=350&h=254"
+											},
+											{
+												"playerName": "Lance Lynn",
+												"playerAge": "35",
+												"playerPosition": "Starting Pitcher",
+												"playerNumber": "#33",
+												"playerERA": "7.16",
+												"playerWhip": "1.59",
+												"playerK": "42",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/30820.png&w=350&h=254"
+											},
+											{
+												"playerName": "Keynan Middleton",
+												"playerAge": "29",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#99",
+												"playerERA": "2.89",
+												"playerWhip": "1.39",
+												"playerK": "17",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/36045.png&w=350&h=254"
+											},
+											{
+												"playerName": "Gregory Santos",
+												"playerAge": "23",
+												"playerPosition": "Relief Pitcher",
+												"playerNumber": "#60",
+												"playerERA": "1.62",
+												"playerWhip": "1.44",
+												"playerK": "17",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39682.png&w=350&h=254"
+											}
+										]
+									},
+									"catchers": {
+										"positionName": "Catchers",
+										"catchersArr": [
+											{
+												"playerName": "Yasmani Grandal",
+												"playerAge": "34",
+												"playerPosition": "Catcher",
+												"playerNumber": "#24",
+												"playerHR": "3",
+												"playerRBI": "9",
+												"playerOPS": "0.779",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/30950.png&w=350&h=254"
+											},
+											{
+												"playerName": "Seby Zavala",
+												"playerAge": "29",
+												"playerPosition": "Catcher",
+												"playerNumber": "#44",
+												"playerHR": "1",
+												"playerRBI": "2",
+												"playerOPS": "0.523",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/37919.png&w=350&h=254"
+											}
+										]
+									},
+									"infielders": {
+										"positionName": "Infielders",
+										"infieldersArr": [
+											{
+												"playerName": "Hanser Alberto",
+												"playerAge": "30",
+												"playerPosition": "3rd Base",
+												"playerNumber": "#26",
+												"playerHR": "1",
+												"playerRBI": "4",
+												"playerOPS": "0.538",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/32839.png&w=350&h=254"
+											},
+											{
+												"playerName": "Tim Anderson",
+												"playerAge": "29",
+												"playerPosition": "Shortstop",
+												"playerNumber": "#7",
+												"playerHR": "0",
+												"playerRBI": "5",
+												"playerOPS": "0.718",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33184.png&w=350&h=254"
+											},
+											{
+												"playerName": "Elvis Andrus",
+												"playerAge": "34",
+												"playerPosition": "Shortstop",
+												"playerNumber": "#1",
+												"playerHR": "0",
+												"playerRBI": "10",
+												"playerOPS": "0.504",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/29515.png&w=350&h=254"
+											},
+											{
+												"playerName": "Lenyn Sosa",
+												"playerAge": "23",
+												"playerPosition": "2nd Base",
+												"playerNumber": "#50",
+												"playerHR": "1",
+												"playerRBI": "3",
+												"playerOPS": "0.383",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41684.png&w=350&h=254"
+											},
+											{
+												"playerName": "Andrew Vaughn",
+												"playerAge": "25",
+												"playerPosition": "1st Base",
+												"playerNumber": "#25",
+												"playerHR": "3",
+												"playerRBI": "20",
+												"playerOPS": "0.780",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/42394.png&w=350&h=254"
+											}
+										]
+									},
+									"outfielders": {
+										"positionName": "Outfielders",
+										"outfieldersArr": [
+											{
+												"playerName": "Andrew Benintendi",
+												"playerAge": "28",
+												"playerPosition": "Left Field",
+												"playerNumber": "#23",
+												"playerHR": "0",
+												"playerRBI": "6",
+												"playerOPS": "0.657",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/34986.png&w=350&h=254"
+											},
+											{
+												"playerName": "Billy Hamilton",
+												"playerAge": "32",
+												"playerPosition": "Center Field",
+												"playerNumber": "#0",
+												"playerHR": "0",
+												"playerRBI": "0",
+												"playerOPS": "0.000",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31042.png&w=350&h=254"
+											},
+											{
+												"playerName": "Adam Haseley",
+												"playerAge": "27",
+												"playerPosition": "Right Field",
+												"playerNumber": "#51",
+												"playerHR": "0",
+												"playerRBI": "2",
+												"playerOPS": "1.155",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/41082.png&w=350&h=254"
+											},
+											{
+												"playerName": "Luis Robert Jr.",
+												"playerAge": "25",
+												"playerPosition": "Center Field",
+												"playerNumber": "#88",
+												"playerHR": "6",
+												"playerRBI": "16",
+												"playerOPS": "0.702",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39631.png&w=350&h=254"
+											}
+										]
+									},
+									"designatedHitter": {
+										"positionName": "Designated Hitters",
+										"designatedHitterArr": [
+											{
+												"playerName": "Eloy Jiminez",
+												"playerAge": "26",
+												"playerPosition": "Designated Hitter",
+												"playerNumber": "#74",
+												"playerHR": "4",
+												"playerRBI": "15",
+												"playerOPS": "0.754",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/33867.png&w=350&h=254"
+											},
+											{
+												"playerName": "Gavin Sheets",
+												"playerAge": "27",
+												"playerPosition": "Designated Hitter",
+												"playerNumber": "#32",
+												"playerHR": "2",
+												"playerRBI": "8",
+												"playerOPS": "0.697",
+												"playerImg": "https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/40700.png&w=350&h=254"
+											}
+										]
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
 }

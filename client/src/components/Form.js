@@ -4,7 +4,7 @@ function Form() {
 			<h2>Search for a Player</h2>
 			<form>
 				<div className="teamSelect">
-					<label for="teamSelect">Team</label>
+					<label htmlFor="teamSelect">Team</label>
 					<select
 						name="teamSelect"
 						id="teamSelect"
@@ -59,7 +59,7 @@ function Form() {
 					</select>
 				</div>
 				<div className="nameSeach">
-					<label for="playerSearch">Search for a Player</label>
+					<label htmlFor="playerSearch">Search for a Player</label>
 					<input
 						name="playerSearch"
 						id="playerSearch"
